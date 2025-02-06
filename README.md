@@ -1,6 +1,9 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este código es un ejemplo de regalo o proposición de san valentín, ajústalo a tus necesidades clonando este código, recuerda ejecutar "npm i" para instalar todas las dependencias necesarias y evitar errores inesperados.
+
+*¿Necesitas un sistema o página web?*
+Contáctame al correo devleninbg@gmail.com
 
 Currently, two official plugins are available:
 
